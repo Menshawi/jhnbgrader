@@ -1,4 +1,0 @@
-export GITHUB_CLIENT_ID=d0d064058c4f06924602
-export GITHUB_CLIENT_SECRET=b36ac18be32a021a9dad06de8fad91f07b57be76
-export OAUTH_CALLBACK_URL=https://domain/hub/oauth_callback
-
